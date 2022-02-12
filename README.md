@@ -1,6 +1,6 @@
 # Hi there, Edson Bandeira here!
 
-Knowledge in Computer Networks, including TCP / IP networks, infrastructure, structured cabling, network device configuration, analysis, identification and maintenance of hardware. Planning, Design and Infrastructure of Internal Networks.
+Telecommunications and Network Engineer | CCNA 200-301 | Linux Red Hat RHCSA In Progress
 
    🌎 **"Discipline is the key to success."** 🧠
 
