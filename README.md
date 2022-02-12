@@ -26,6 +26,7 @@ Telecommunications and Network Engineer | CCNA 200-301 | Linux Red Hat RHCSA In 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+![Zabbix](https://img.shields.io/badge/Zabbix-v4.2+-green.svg?style=flat)
 
 
 
