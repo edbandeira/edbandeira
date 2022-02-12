@@ -1,6 +1,8 @@
 # Hi there, Edson Bandeira here!
 
-Telecommunications and Network Engineer | CCNA 200-301 | Linux Red Hat RHCSA In Progress
+Electrical Engineer bachelor by IFPB focused Telecommunications and Electronics with also an internship outside the country at BME - Budapest University of Technology and Economics (Hungary), recently obtained the Cisco CCNA 200-301 certification and now working to achieve the Linux RHCSA Certification.
+
+During my professional experiences I could be exposed to a series of projects where I faced unique challenges. These challenges made me become a person passionate about problem solving, technological innovations and networks, for me it is something extremely satisfying to understand and apply resolutions to failures and unusual situations related to telecommunications and Infrasctructure, observing the details during this process.
 
    🌎 **"Discipline is the key to success."** 🧠
 
