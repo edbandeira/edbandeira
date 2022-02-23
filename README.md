@@ -11,8 +11,8 @@ During my professional experiences I could be exposed to a series of projects wh
  Reach me out  👇
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bandeiraedson)](https://www.linkedin.com/in/bandeiraedson)
-[]: #([![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583996234826)](https://api.whatsapp.com/send?phone=5583996234826))
-[]: # ([![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/manobrownied)](https://t.me/manobrownied))
+<!--- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583996234826)](https://api.whatsapp.com/send?phone=5583996234826) -->
+<!--- [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/manobrownied)](https://t.me/manobrownied) -->
 
 **🚀💻 Some tools and technologies for learning and professional development**
 
