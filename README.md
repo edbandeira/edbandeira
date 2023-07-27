@@ -1,14 +1,14 @@
 # Hi there, Edson Bandeira here!
 
-Electrical Engineer bachelor by IFPB focused Telecommunications and Electronics with also an internship outside the country at BME - Budapest University of Technology and Economics (Hungary), recently obtained the Cisco CCNA 200-301 certification and now working to achieve the Linux RHCSA Certification.
+Electrical Engineer bachelor by IFPB focused Telecommunications and Electronics with an internship outside the country at BME - Budapest University of Technology and Economics (Hungary).
 
-During my professional experiences I could be exposed to a series of projects where I faced unique challenges. These challenges made me become a person passionate about problem solving, technological innovations and networks, for me it is something extremely satisfying to understand and apply resolutions to failures and unusual situations related to telecommunications and Infrasctructure, observing the details during this process.
+During my professional experiences, I could be exposed to a series of projects where I faced unique challenges. These challenges made me passionate about problem-solving, technological innovations, and networks; for me, it is incredibly satisfying to understand and apply resolutions to failures and unusual situations related to telecommunications and infrastructure, observing the details during this process.
 
    🌎 **"Discipline is the key to success."** 🧠
 
 - 📫 How to **[contact](mailto:edsonbandeira.eng@gmail.com)** me **[edsonbandeira.eng@gmail.com](mailto:edsonbandeira.eng@gmail.com).**
 
- Reach me out  👇
+ Reach out  👇
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bandeiraedson)](https://www.linkedin.com/in/bandeiraedson)
 <!--- [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583996234826)](https://api.whatsapp.com/send?phone=5583996234826) -->
